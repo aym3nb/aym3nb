@@ -26,98 +26,106 @@ I help startups and teams ship maintainable software — fast.
 
 #### Languages
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">JavaScript</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/typescript" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">TypeScript</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/python" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Python</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/ruby" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Ruby</span>
-</span>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" />
+      <div><sub>JavaScript</sub></div>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/typescript" width="32" height="32" />
+      <div><sub>TypeScript</sub></div>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/python" width="32" height="32" />
+      <div><sub>Python</sub></div>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/ruby" width="32" height="32" />
+      <div><sub>Ruby</sub></div>
+    </td>
+  </tr>
+</table>
 
 #### Frontend
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/sass" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">SASS</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/vite" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Vite</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/vuedotjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Vue.js</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Nuxt.js</span>
-</span>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/sass" width="32" height="32" />
+      <div><sub>SASS</sub></div>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/vite" width="32" height="32" />
+      <div><sub>Vite</sub></div>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/vuedotjs" width="32" height="32" />
+      <div><sub>Vue.js</sub></div>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="32" height="32" />
+      <div><sub>Nuxt.js</sub></div>
+    </td>
+  </tr>
+</table>
 
 #### Backend
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/nodedotjs" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Node.js</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/express" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Express</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/graphql" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">GraphQL</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/rubyonrails" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Ruby On Rails</span>
-</span>
+<table>
+  <tr>
+    <td align="center"> <img src="https://cdn.simpleicons.org/nodedotjs" width="32" height="32" />
+        <div><sub>Node.js</sub></div>
+    </td>
+    <td align="center"> <img src="https://cdn.simpleicons.org/express" width="32" height="32" />
+        <div><sub>Express</sub></div>
+    </td>
+    <td align="center"> <img src="https://cdn.simpleicons.org/graphql" width="32" height="32" />
+        <div><sub>GraphQL</sub></div>
+    </td>
+    <td align="center"> <img src="https://cdn.simpleicons.org/rubyonrails" width="32" height="32" />
+        <div><sub>Rails</sub></div>
+    </td>
+  </tr>
+</table>
 
 #### Testing
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Browser Stack</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/jest" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Jest</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/cypress" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Cypress</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/percy" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Percy</span>
-</span>
+<table>
+  <tr>
+    <td align="center"> <img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" width="32" height="32" />
+        <div><sub>BrowserStack</sub></div>
+    </td>
+    <td align="center"> <img src="https://cdn.simpleicons.org/jest" width="32" height="32" />
+        <div><sub>Jest</sub></div>
+    </td>
+    <td align="center"> <img src="https://cdn.simpleicons.org/cypress" width="32" height="32" />
+        <div><sub>Cypress</sub></div>
+    </td>
+    <td align="center"> <img src="https://cdn.simpleicons.org/percy" width="32" height="32" />
+        <div><sub>Percy</sub></div>
+    </td>
+  </tr>
+</table>
 
 #### Infrastructure
 
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://www.svgrepo.com/show/376356/aws.svg" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">AWS CDK</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/github" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Github Actions</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/docker" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Docker</span>
-</span>
-<span style="display:inline-block;text-align:center;width:60px;margin-right:10px;">
-  <img src="https://cdn.simpleicons.org/sentry" width="32" height="32" style="display:block;margin:0 auto;" />
-  <span style="font-size:11px;display:block;margin-top:4px;">Sentry</span>
-</span>
+<table>
+  <tr>
+    <td align="center"> <img src="https://www.svgrepo.com/show/376356/aws.svg" width="32" height="32" />
+        <div><sub>AWS CDK</sub></div>
+    </td>
+    <td align="center"> <img src="https://cdn.simpleicons.org/github" width="32" height="32" />
+        <div><sub>GitHub Actions</sub></div>
+    </td>
+    <td align="center"> <img src="https://cdn.simpleicons.org/docker" width="32" height="32" />
+        <div><sub>Docker</sub></div>
+    </td>
+    <td align="center"> <img src="https://cdn.simpleicons.org/sentry" width="32" height="32" />
+        <div><sub>Sentry</sub></div>
+    </td>
+  </tr>
+</table>
 
 ---
 
