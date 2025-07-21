@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://aym3nb.github.io/resume" target="_blank"><img src="https://img.shields.io/badge/🧾%20View%20Live%20Resume-00C1B2?style=for-the-badge" /></a>
-  <a href="https://aym3nb.github.io/resume/assets/resume.pdf" target="_blank"><img src="https://img.shields.io/badge/⬇️%20Download%20PDF%20Resume-black?style=for-the-badge" /></a>
+  <a href="https://aym3nb.github.io/AYMEN_BARECHE_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/⬇️%20Download%20PDF%20Resume-black?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -26,7 +26,7 @@ I help startups and teams ship maintainable software — fast.
 
 #### Languages
 
-<table>
+<table border="0" cellspacing="0">
   <tr>
     <td align="center">
       <img src="https://cdn.simpleicons.org/javascript" width="32" height="32" />
@@ -49,7 +49,7 @@ I help startups and teams ship maintainable software — fast.
 
 #### Frontend
 
-<table>
+<table border="0" cellspacing="0">
   <tr>
     <td align="center">
       <img src="https://cdn.simpleicons.org/sass" width="32" height="32" />
@@ -72,7 +72,7 @@ I help startups and teams ship maintainable software — fast.
 
 #### Backend
 
-<table>
+<table border="0" cellspacing="0">
   <tr>
     <td align="center"> <img src="https://cdn.simpleicons.org/nodedotjs" width="32" height="32" />
         <div><sub>Node.js</sub></div>
@@ -91,7 +91,7 @@ I help startups and teams ship maintainable software — fast.
 
 #### Testing
 
-<table>
+<table border="0" cellspacing="0">
   <tr>
     <td align="center"> <img src="https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/bstack-logo-global.svg" width="32" height="32" />
         <div><sub>BrowserStack</sub></div>
@@ -110,7 +110,7 @@ I help startups and teams ship maintainable software — fast.
 
 #### Infrastructure
 
-<table>
+<table border="0" cellspacing="0">
   <tr>
     <td align="center"> <img src="https://www.svgrepo.com/show/376356/aws.svg" width="32" height="32" />
         <div><sub>AWS CDK</sub></div>
