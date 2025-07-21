@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://aym3nb.github.io/resume" target="_blank"><img src="https://img.shields.io/badge/🧾%20View%20Live%20Resume-00C1B2?style=for-the-badge" /></a>
-  <a href="https://aym3nb.github.io/AYMEN_BARECHE_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/⬇️%20Download%20PDF%20Resume-black?style=for-the-badge" /></a>
+  <a href="https://aym3nb.github.io/AYMEN_BARECHE_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/⬇️%20Download%20PDF%20Resume-00897B?style=for-the-badge" /></a>
 </p>
 
 ---
